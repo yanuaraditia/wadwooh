@@ -1,0 +1,12 @@
+{
+  "name": "wadwooh",
+  "version": "1.0.0",
+  "description": "A whatsapp gateway for wooh",
+  "main": "index.js",
+  "author": "yanuaraditia",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.3.0"
+  }
+}
